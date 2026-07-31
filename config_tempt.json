@@ -1,0 +1,5 @@
+{
+  "api_key": "sk-**",
+  "model" : "example-10b",
+  "base_url": "https://api.example.ai/v1"
+}
