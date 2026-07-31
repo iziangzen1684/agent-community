@@ -1,5 +1,5 @@
 # agent-community
-A very simple chat room simulator using LLM.
+A very simple chat room simulation using LLM.
 
 # Quickstart
 ```sh
